@@ -15,4 +15,4 @@
 #### Other Projects To Be Added
 
 ![Purav's github stats](https://github-readme-stats.vercel.app/api?username=puravdatta-sudo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puravdatta-sudo&hide=javascript&langs_count=9&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puravdatta-sudo&hide=javascript&langs_count=9&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
