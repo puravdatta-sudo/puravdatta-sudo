@@ -1,11 +1,11 @@
 # Hi there 👋
 
-## I'm Purav, a High School Sophomore and an Avid Roboticist.
+## I'm Purav, a College Freshman at Texas A&M University and an Avid Roboticist.
 
 
 ## Here's a short summary of what I do!
 ***
-#### A large part of my life is robotics, I am the Captain as well as lead software engineer of FTC Team 14614 Electro. We ranked within the top 1% of all teams globally every year and are super dedicated to being competitive. Upcomming Integrations include:
+#### A large part of my life is robotics, I am the Captain as well as lead software engineer of the now retired FTC Team 14614 Electro. We ranked within the top 1% of all teams globally every year and are super dedicated to being competitive. Integrations include:
 * VSLAM for continous autonomous localization
 * Autonomous Path Planning and Re-Optimization using Model Predictive Control
 * Driver Automation To Reduce Human Error
